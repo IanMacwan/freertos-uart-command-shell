@@ -13,3 +13,5 @@ Implementing commands:
 `led on`, `led off`, `status`
 
 Designed to demonstrate ISR safety, task separation, and concurrency.
+
+*⚠️ note: this project is still a work in progress and may have a few bugs.*
